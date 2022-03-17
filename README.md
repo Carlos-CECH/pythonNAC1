@@ -1,13 +1,10 @@
-# Template para desenvolvimento e entrega de NAC
+# Pycam
 
-Esse é um guia simples, de como usar nosso app em python. 
-# Nome do projeto
+**nome dos alunos: Carlos Eduardo de Castro Henriques, Ian Makdisse** 
 
-**nome dos alunos:** 
+**Turma: A**
 
-**Turma:**
-
-**Ano:**
+**Ano: 4 SI**
 
 ## Objetivo / descrição do Projeto
 
@@ -17,7 +14,7 @@ Explique de forma clara qual o objeto deste projeto, para que serve e comente as
 
 Adicione uma ou mais fotos do projeto, pode ser uma imagem da arquitetura, do circuito eletrônico do Flow desenvolvido. 
 
-<img src="/imagem.jpg" width="550">
+<img src="/circulos.PNG" width="550">
 
 
 ## Como usar 
@@ -26,12 +23,6 @@ Explique como rodar o seu projeto. Quais programas instalar, como configurar...
 
 * Pode ser utilizado marcadores
 * Para ajudar na formatação
-
-Ou qualquer outra tabulação:
-
-- [x] Youtube
-- [ ] Facebook 
-- [x] Instagram
 
 Como clonar o repositório:
 
@@ -42,8 +33,6 @@ Como clonar o repositório:
 
 
 ## Link de vídeo demonstração
-
-Adicione o link para assistir ao vídeo do projeto funcionando.
 
 [Link para o video youtube](https://www.youtube.com/watch?v=xva71wynxS0)
 
