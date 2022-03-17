@@ -36,7 +36,7 @@ Ou qualquer outra tabulação:
 Como clonar o repositório:
 
     cd /home/iot
-    git clone https://github.com/Carlos0803/pythonNAC1
+    git clone https://github.com/Carlos-CECH/pythonNAC1
     cd pythonNAC1
     ls
 
