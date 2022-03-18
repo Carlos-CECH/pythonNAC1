@@ -34,7 +34,7 @@ Como clonar o repositório:
 
 ## Link de vídeo demonstração
 
-[Link para o video youtube](https://www.youtube.com/watch?v=xva71wynxS0)
+[Link para o video youtube](https://youtu.be/wv0MEnzSnEs)
 
 
 ### Referências 
