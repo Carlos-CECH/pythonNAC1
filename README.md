@@ -25,8 +25,8 @@ Adicione uma ou mais fotos do projeto, pode ser uma imagem da arquitetura, do ci
 Execute a celula do Jupyter notebook:
 
 * Instale o Python versão 3
-* Execute o comando pip install matplotlib no terminal para instalar a biblioteca do matplotlib 
-* Execute o mesmo comando para math, notebook e numpy
+* Execute o comando `pip install matplotlib` no terminal para instalar a biblioteca do matplotlib 
+* Execute o mesmo comando para `math`, `notebook` e `numpy`
 * Acesse o local do arquivo pelo terminal
 * Execute o comando jupyter notebook no terminal
 * Abra o R2.ipynb
