@@ -8,13 +8,15 @@
 
 ## Objetivo / descrição do Projeto
 
-Pegamos uma imagem com várias formas geométricas e contornamos apenas os dois circulos maiores, calculamos a área e marcamos com uma pequena cruz como ponto de referência, traçamos uma reta nos dois pontos e calculamos o angulo com o atan2.
+Pegamos uma imagem com várias formas geométricas e contornamos apenas os dois circulos maiores, calculamos a área e marcamos com uma pequena cruz como ponto de referência, traçamos uma reta nos dois pontos e calculamos o ângulo com o atan2.
 
 ## Diagrama do projeto
 
+### Arquitetura
 <img src="/arquitetura_part1.jpg" width="550"> <br>
 <img src="/arquitetura_part2.jpg" width="550"> <br>
 <img src="/arquitetura_part3.jpg" width="550"> <br>
+### Imagem utilizada
 <img src="/circulos.PNG" width="550">
 
 
