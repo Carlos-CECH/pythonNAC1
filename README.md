@@ -8,11 +8,9 @@
 
 ## Objetivo / descrição do Projeto
 
-Explique de forma clara qual o objeto deste projeto, para que serve e comente as principais tecnologias utilizadas. 
+Pegamos uma imagem com várias formas geométricas e contornamos apenas os dois circulos maiores, calculamos a área e marcamos com uma pequena cruz como ponto de referência, traçamos uma reta nos dois pontos e calculamos o angulo com o atan2.
 
 ## Diagrama do projeto
-
-Adicione uma ou mais fotos do projeto, pode ser uma imagem da arquitetura, do circuito eletrônico do Flow desenvolvido. 
 
 <img src="/arquitetura_part1.jpg" width="550"> <br>
 <img src="/arquitetura_part2.jpg" width="550"> <br>
